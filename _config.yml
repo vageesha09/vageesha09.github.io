@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Ren"
+title                    : "Vageesha Bainwala"
 title_separator          : " - "
-name                     : &name "Kevin Ren"
+name                     : &name "Vageesha Bainwala"
 description              : &description ""
-url                      : https://ren-kevin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vageesha09.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ren-kevin/ren-kevin.github.io"
+repository               : "vageesha09/vageesha09.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Ren"
-  avatar           : "IMG_6500_crop2.jpg"
-  bio              : "Ph.D. Candidate in Finance"
+  name             : "Vageesha Bainwala"
+  avatar           : "Bainwala-Vageesha-25- 0010.JPG"
+  bio              : "Ph.D. Candidate in Economics"
   location         : "Evanston, IL"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9uLjxiMAAAAJ"
-  email            :
+  googlescholar    : # "https://scholar.google.com/citations?hl=en&user=9uLjxiMAAAAJ"
+  email            : vageesha09@u.northwestern.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kevin-ren-06759270"
+  linkedin         : "vageesha-bainwala"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
