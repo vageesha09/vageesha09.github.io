@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: " "
-seo_title: "Kevin Ren"
+seo_title: "Vageesha Bainwala"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome! <br>
 
-I am a sixth-year Ph.D. Finance candidate at the Kellogg School of Management at Northwestern University. I am on the 2025/2026 academic job market. 
+I am a sixth-year Ph.D. Economics candidate at Northwestern University. My research focuses on development economics and finance, with particular interest in credit access for marginalized households and interactions between formal and informal lending.
 
-My research is broadly within financial economics and macroeconomics with a focus on topics in macro-finance, asset pricing, and firm dynamics.  
+I am on the 2025/2026 academic job market. 
 
 [Download CV (PDF)](/files/cv.pdf){: .btn--generalbutton target="_blank"}
 
