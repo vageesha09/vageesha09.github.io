@@ -11,8 +11,9 @@ author_profile: true
 ## Job Market Paper
 
 {% include paper_entry.html
-   title="Market Power, Expectations, and Asset Prices"
-   coauthors="Dalton Rongxuan Zhang"
+   title="Branching Out: How Bank Expansion Shapes Household Credit Portfolios"
+   abstract = " This paper investigates the interaction between formal and informal credit markets by analyzing the effects of a large-scale bank expansion policy in India. Using a regression discontinuity design based on the Reserve Bank of India’s 2005 initiative to increase banking in underserved districts, the study finds that greater bank presence led to a 14 percentage point increase in the probability of households taking informal loans, an effect concentrated in rural areas. Furthermore, the share of formal loans in household portfolios was lower in treated districts. These results suggest a vertical interaction between the two credit sectors, with evidence found in the loan terms: informal moneylenders in newly banked districts charged significantly lower interest rates. The findings suggest that informal lenders may act as intermediaries, channeling the increased supply of formal credit to households and demonstrating their adaptive role within the financial ecosystem."
+   draft_text="Draft available upon request"
    links="kr_jmp" %}
 
 ## Refereed Publications
