@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV (PDF)](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton target="_blank"}
+[Download CV (PDF)](https://vageesha09.github.io/files/Vageesha_CV.pdf){: .btn--generalbutton target="_blank"}
 
 <!-- {% include base_path %}
 
