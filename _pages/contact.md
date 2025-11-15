@@ -5,9 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Address:** Kellogg School of Management, Northwestern University, 2211 Campus Drive, Evanston IL, 60208
+**Address:** Department of Economics, Northwestern University, 2211 Campus Drive, Evanston IL, 60208
 
-**Email:** kevin.ren@kellogg.northwestern.edu
+**Email:** vageesha09@u.northwestern.edu
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
