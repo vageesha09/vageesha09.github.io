@@ -3,6 +3,11 @@
     <span style="color:#4682B4; font-weight:bold !important;">{{ include.title }}</span><br>
     {% if include.coauthors %}with {{ include.coauthors }}<br>{% endif %}
     {% if include.status %}<em>{{ include.status }}</em><br>{% endif %}
+    {% if include.abstract %}
+    <p class="paper-abstract" style="margin-top:5px;">
+    {{ include.abstract }}
+    </p>
+    {% endif %}
     {% if include.links %}
         {% assign paper_links = site.data.links[include.links] %}
         {% for link in paper_links %}
