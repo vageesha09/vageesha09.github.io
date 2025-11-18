@@ -40,8 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 @import "custom";
-
-/* Fix avatar cropping – shift image downward inside the circle */
-.author__avatar img {
-  object-position: center 25%; /* move image slightly down */
-}
