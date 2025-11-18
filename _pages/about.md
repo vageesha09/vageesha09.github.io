@@ -12,7 +12,7 @@ Welcome! <br>
 
 I am a sixth-year Ph.D. Economics candidate at Northwestern University. My research focuses on development economics and finance, with particular interest in credit access for marginalized households and interactions between formal and informal lending.
 
-I am on the 2025/2026 academic job market. 
+I am on the 2025/2026 job market. 
 
 [Download CV (PDF)](/files/Vageesha_CV.pdf){: .btn--generalbutton target="_blank"}
 
